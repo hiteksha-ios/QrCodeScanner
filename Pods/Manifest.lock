@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (5.2.1)
+  - DropDown (2.3.13)
+  - IQKeyboardManager (6.5.5)
+  - MBProgressHUD (1.2.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - SVPinView (1.0.9)
+  - Toast-Swift (5.0.1)
+  - ValidationTextField (1.0.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - DropDown
+  - IQKeyboardManager
+  - MBProgressHUD
+  - NVActivityIndicatorView
+  - SVPinView
+  - Toast-Swift
+  - ValidationTextField
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DropDown
+    - IQKeyboardManager
+    - MBProgressHUD
+    - NVActivityIndicatorView
+    - SVPinView
+    - Toast-Swift
+    - ValidationTextField
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  SVPinView: 3dd47f5cd5ee67520ab1319a780cc0664735fafe
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  ValidationTextField: 91bc04170ba4b4358912c372e12d7af4c9143ad5
+
+PODFILE CHECKSUM: 0386518e30410fae0c09dc2d58c52c2b7363518c
+
+COCOAPODS: 1.9.3
